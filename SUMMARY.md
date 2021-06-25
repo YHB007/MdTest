@@ -10,7 +10,7 @@
     * [更好的写作工具](chapter-2/better_tools.md)
 * [卷 III](chapter-3/README.md)
     * [期待反馈](chapter-3/feedback_please.md)
-    * [更好的写作工具III](chapter-2/better_tools.md)
+    * [更好的写作工具III](chapter-3/better_tools.md)
 
 
 
